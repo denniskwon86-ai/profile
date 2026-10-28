@@ -1,2 +1,8 @@
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: kakaotalk-scrap
+Allow: /
+
 User-agent: *
 Disallow: /
